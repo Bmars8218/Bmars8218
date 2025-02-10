@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;)]()
 
 ## Skills
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
-- 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
+- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Smart contracts, Cryptography, Distributed Systems
+- 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Anchor, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🔭 Backend : NodeJs, CI, Laravel, Django, Flask, Express, Nestjs, PHP
 <!-- - 📲 Mobile: Android, React Native, Ionic, Flutter -->
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AWS Lambda, Spring Cloud
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Solidity, Rust, Go
 - 🔥 CMS: WordPress, Shopify
   
 
