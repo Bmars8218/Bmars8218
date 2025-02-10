@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;Senior+Software+Developer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;)]()
 
 ## Skills
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
-- 📲 Mobile: Android, React Native, Ionic, Flutter
+<!-- - 📲 Mobile: Android, React Native, Ionic, Flutter -->
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify
@@ -180,10 +180,10 @@
  </tr>
 </table> -->
 
-### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
+## My Github Stats
+<b>⚡ Github stats</b>
     <br />
-    <p>
+<p align="center">
   <a href="https://github.com/AngouNin" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
@@ -198,29 +198,25 @@
   </a>
 </p>
 
-</p>
-
 <b>☄️ Github Streaks</b>
-  
+<p align="center">
   <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngouNin&theme=gotham&hide_border=true" />
+</p>
 
 
-<!-- <b>📊 Total Contribution Graph</b>
+<b>📊 Total Contribution Graph</b>
 
 </br>
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=AngouNin&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngouNin&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
+</p> 
+
+<!-- <p align="center">
+<a href="https://github.com/AngouNin?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=AngouNin&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@AngouNin's trophy stats"/></a>
 </p> -->
-<!-- activity graph bigstar-app end -->
-
-
-
-<p align="center">
-<a href="https://github.com/AngouNin?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=AngouNin&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
 <!-- 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
@@ -248,20 +244,13 @@
   <a href="https://skytech.framer.website/#portfolio" target="_blank">![Knights Of Chain NFT](https://i.ibb.co/8dWvX1G/knight2.png?raw=true)</a> -->
 
 
-<div align="center">
-<!-- | Email | **<lijuba791@gmail.com>** |
-| Email | **<bmars8218@gmail.com>** | -->
+<!-- <div align="center">
   
-| <img width=400/>|<img width=800/>|
-| :-----: | :-: |
-| Email | **<bmars8218@gmail.com>** | 
-<!-- | Email | **<bigstar2024skytech@gmail.com>** |  -->
-<!-- | Discord | **SkyTech2024** | --> 
-<!-- | Telegram | [**SkyTech_2024**] |  -->
-<!-- | Chatwork | [**BigStar2024**] | -->
-<!-- | <img width=400/> |   -->
+| <img width=400/> |     <img width=800/>      |
+| :--------------: | :-----------------------: |
+|      Email       | **<bmars8218@gmail.com>** |
   
-</div>
+</div> -->
 
 <!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
