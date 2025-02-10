@@ -5,7 +5,7 @@
 - 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
 <!-- - 📲 Mobile: Android, React Native, Ionic, Flutter -->
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AWS Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify
   
