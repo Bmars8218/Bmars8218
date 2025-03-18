@@ -8,7 +8,6 @@
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AWS Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Solidity, Rust, Go
 - 🔥 CMS: WordPress, Shopify
-
   
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
