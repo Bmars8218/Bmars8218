@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;)]()
 
 ## Skills
+
 - 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Anchor, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Flask, Express, Nestjs, PHP, .NET
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Smart contracts, Cryptography, Distributed Systems
+- 🔥 CMS: Shopify, Shopify Plus, WooCommerce, WordPress, Shopify's Hydrogen, BigCommerce, EC-Cube, Webflow, Wix, Magento, Shogun, PageFly, Replo
+
 <!-- - 📲 Mobile: Android, React Native, Ionic, Flutter -->
+
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AWS Lambda, Spring Cloud, Supabase
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Solidity, Rust, Go
-- 🔥 CMS: WordPress, Shopify
-  
-  
+
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
@@ -181,8 +183,10 @@
 </table> -->
 
 ## My Github Stats
-<b>⚡ Github stats</b>
-    <br />
+
+`<b>`⚡ Github stats`</b>`
+    `<br />`
+
 <p align="center">
   <a href="https://github.com/AngouNin" target="_blank" rel="noopener noreferrer">
     <img
@@ -198,38 +202,39 @@
   </a>
 </p>
 
+`<b>`☄️ Github Streaks`</b>`
 
-<b>☄️ Github Streaks</b>
 <p align="center">
   <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AngouNin&theme=gotham&hide_border=true" />
 </p>
 
-
-<b>📊 Total Contribution Graph</b>
+`<b>`📊 Total Contribution Graph`</b>`
 
 </br>
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=AngouNin&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngouNin&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p> 
+</p>
 
 <!-- <p align="center">
 <a href="https://github.com/AngouNin?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=AngouNin&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@AngouNin's trophy stats"/></a>
 </p> -->
+
 <!-- 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p> -->
 
 <!-- # Do you want to see myteam work? -->
+
 <!-- ### 🥇 Web/Full Stack projects
 
-[![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
-[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
-[![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
-[![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
+[![Learn with Socrates](https://img.shields.io/badge/-🏫  LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
+[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎 CyOp‑Terminal-000000?style=flat)](https://cyop.io)
+[![Chip Leader AI](https://img.shields.io/badge/-🃏  ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
+[![CoProperty](https://img.shields.io/badge/-📰 Co Property-000000?style=flat)](https://coproperty.cloud)
  -->
 
 <!-- ## Trademarktoday Business Website
@@ -244,19 +249,20 @@
   <a href="https://skytech.framer.website/#portfolio" target="_blank">![Knights Of Chain NFT](https://i.ibb.co/1KSRT8z/knight.png?raw=true)</a>
   <a href="https://skytech.framer.website/#portfolio" target="_blank">![Knights Of Chain NFT](https://i.ibb.co/8dWvX1G/knight2.png?raw=true)</a> -->
 
-
 <!-- <div align="center">
-  
-| <img width=400/> |     <img width=800/>      |
-| :--------------: | :-----------------------: |
-|      Email       | **<bmars8218@gmail.com>** |
-  
+
+| `<img width=400/>` |      `<img width=800/>`      |
+| :------------------: | :-----------------------------: |
+|        Email        | **<bmars8218@gmail.com>** |
+
 </div> -->
+
+ -->
 
 <!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
 </p> -->
+
 <!-- <div align="center">
     <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 </div> -->
-
